@@ -1,0 +1,28 @@
+﻿capital,uf,ideb_2021,ideb_2023,ioeb_2021,ioeb_2023,ioeb_2021_original,delta_ideb,delta_ioeb,ideb_2023_faixa,cluster,perfil_cluster
+São Paulo,SP,5.7,5.6,5.6,5.5,5.6,-0.10000000000000053,-0.09999999999999964,"5,1 a 5,9",1.0,IDEB 2023 mais baixo ou avanço menor
+Fortaleza,CE,5.8,5.9,5.4,5.3,5.4,0.10000000000000053,-0.10000000000000053,"5,1 a 5,9",1.0,IDEB 2023 mais baixo ou avanço menor
+Curitiba,PR,6.0,6.3,5.3,5.3,5.3,0.2999999999999998,0.0,"6,0 ou mais",0.0,IDEB 2023 mais alto e maior avanço
+Goiânia,GO,5.9,6.5,5.1,5.2,5.1,0.5999999999999996,0.10000000000000053,"6,0 ou mais",0.0,IDEB 2023 mais alto e maior avanço
+Rio de Janeiro,RJ,5.4,6.0,5.2,5.2,5.2,0.5999999999999996,0.0,"6,0 ou mais",0.0,IDEB 2023 mais alto e maior avanço
+Belo Horizonte,MG,5.8,5.8,5.2,5.2,5.2,0.0,0.0,"5,1 a 5,9",1.0,IDEB 2023 mais baixo ou avanço menor
+Brasília,DF,,5.9,5.1,5.2,5.1,,0.10000000000000053,"5,1 a 5,9",,
+Cuiabá,MT,5.6,5.8,4.8,5.1,4.8,0.20000000000000018,0.2999999999999998,"5,1 a 5,9",1.0,IDEB 2023 mais baixo ou avanço menor
+Manaus,AM,5.5,6.2,5.0,5.1,5.0,0.7000000000000002,0.09999999999999964,"6,0 ou mais",0.0,IDEB 2023 mais alto e maior avanço
+Teresina,PI,6.3,6.4,5.4,5.0,5.4,0.10000000000000053,-0.40000000000000036,"6,0 ou mais",0.0,IDEB 2023 mais alto e maior avanço
+Palmas,TO,6.1,6.3,5.1,5.0,5.1,0.20000000000000018,-0.09999999999999964,"6,0 ou mais",0.0,IDEB 2023 mais alto e maior avanço
+Recife,PE,5.3,5.5,4.7,5.0,4.7,0.20000000000000018,0.2999999999999998,"5,1 a 5,9",1.0,IDEB 2023 mais baixo ou avanço menor
+Boa Vista,RR,5.5,5.7,4.6,5.0,4.6,0.20000000000000018,0.40000000000000036,"5,1 a 5,9",1.0,IDEB 2023 mais baixo ou avanço menor
+Florianópolis,SC,5.9,5.8,4.9,4.9,4.9,-0.10000000000000053,0.0,"5,1 a 5,9",1.0,IDEB 2023 mais baixo ou avanço menor
+Campo Grande,MS,5.4,5.3,4.9,4.9,4.9,-0.10000000000000053,0.0,"5,1 a 5,9",1.0,IDEB 2023 mais baixo ou avanço menor
+Vitória,ES,5.6,6.1,4.7,4.9,4.7,0.5,0.20000000000000018,"6,0 ou mais",0.0,IDEB 2023 mais alto e maior avanço
+Rio Branco,AC,5.7,6.4,5.0,4.8,5.0,0.7000000000000002,-0.20000000000000018,"6,0 ou mais",0.0,IDEB 2023 mais alto e maior avanço
+Porto Alegre,RS,5.2,4.7,4.5,4.8,4.5,-0.5,0.2999999999999998,"Até 5,0",1.0,IDEB 2023 mais baixo ou avanço menor
+Porto Velho,RO,5.3,5.3,4.6,4.8,4.6,0.0,0.20000000000000018,"5,1 a 5,9",1.0,IDEB 2023 mais baixo ou avanço menor
+Salvador,BA,5.4,5.3,4.6,4.7,4.6,-0.10000000000000053,0.10000000000000053,"5,1 a 5,9",1.0,IDEB 2023 mais baixo ou avanço menor
+João Pessoa,PB,5.0,5.2,4.5,4.6,4.5,0.20000000000000018,0.09999999999999964,"5,1 a 5,9",1.0,IDEB 2023 mais baixo ou avanço menor
+Aracaju,SE,5.0,5.2,4.3,4.5,4.3,0.20000000000000018,0.20000000000000018,"5,1 a 5,9",1.0,IDEB 2023 mais baixo ou avanço menor
+São Luís,MA,4.9,5.5,4.4,4.4,4.4,0.5999999999999996,0.0,"5,1 a 5,9",0.0,IDEB 2023 mais alto e maior avanço
+Belém,PA,4.9,5.0,4.4,4.4,4.4,0.09999999999999964,0.0,"Até 5,0",1.0,IDEB 2023 mais baixo ou avanço menor
+Natal,RN,4.3,4.5,4.3,4.3,4.3,0.20000000000000018,0.0,"Até 5,0",1.0,IDEB 2023 mais baixo ou avanço menor
+Maceió,AL,4.8,5.3,4.2,4.3,4.2,0.5,0.09999999999999964,"5,1 a 5,9",1.0,IDEB 2023 mais baixo ou avanço menor
+Macapá,AP,5.1,5.3,4.0,4.2,4.0,0.20000000000000018,0.20000000000000018,"5,1 a 5,9",1.0,IDEB 2023 mais baixo ou avanço menor

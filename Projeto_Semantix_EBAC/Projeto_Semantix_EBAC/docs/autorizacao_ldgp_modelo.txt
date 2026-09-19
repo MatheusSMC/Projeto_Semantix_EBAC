@@ -1,0 +1,9 @@
+# Modelo de autorização LDGP
+
+Use somente se você desejar autorizar o compartilhamento do projeto com a Semantix, conforme o briefing da EBAC.
+
+Preencha seus próprios dados antes de utilizar:
+
+"Eu, [NOME COMPLETO], portador(a) da Cédula de Identidade RG n° [RG], inscrito no CPF sob o n° [CPF], autorizo a cessão do meu projeto em favor da Semantix, bem como a divulgação do meu nome como autor responsável pelo projeto, uma vez que será possível incluir esse trabalho em meu portfólio de trabalho. Nesse sentido, autorizo também a divulgação dos meus contatos telefone e e-mail para a Semantix, tão somente para uso interno com finalidade única de contato em decorrência da elaboração do projeto mencionado."
+
+Não publique RG, CPF ou telefone no GitHub público.
